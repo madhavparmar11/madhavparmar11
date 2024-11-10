@@ -22,9 +22,6 @@ As a Data Scientist, I work with a focused set of technologies and tools:
 - **Machine Learning**: SciKit-Learn, XGBoost, LightGBM
 - **Deep Learning**: TensorFlow, Keras, PyTorch
 
-### 📈 GitHub Stats
-![Madhav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=dark)
-
 ### 🤝 Let’s Connect!
 Feel free to reach out to me if you're interested in collaborating, learning, or just want to chat about data science and AI.
 
