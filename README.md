@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** from **M
 ---
 
 ## 🧑‍💻 About Me
-- 🌍 Based in **Mathura, India**
+- 🌍 Based in **Gurugram, India**
 - 💻 Specialized in **Full Stack Development** using **Java, Spring Boot, and Angular**
 - 🚀 Passionate about building scalable and high-performance web applications
 - 🌱 Currently exploring **Microservices Architecture**, **Cloud Technologies**, and **DevOps**
