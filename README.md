@@ -2,60 +2,39 @@
 
 ⚡ About Me
 
-name: Madhav Parmar
-based_in: Gurugram, India
-
-roles:
-  - Full Stack Developer
-  - Java Backend Engineer
+<div align="center"><img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/></div>name: Madhav Parmar
+role: Full Stack Developer
 
 specialization:
-  backend:
-    - Java
-    - Spring Boot
-    - REST APIs
-    - Microservices
-
-  frontend:
-    - Angular
-    - TypeScript
-    - Modern UI Development
-
-  databases:
-    - MySQL
-    - PostgreSQL
-    - MongoDB
-
-  dev_tools:
-    - Docker
-    - GitHub
-    - Linux
-    - Maven
-    - Gradle
-    - Postman
+  - Java Backend Development
+  - Spring Boot Applications
+  - Angular Frontend Engineering
+  - Microservices Architecture
 
 currently_learning:
-  - DevOps
-  - AWS Cloud
+  - Cloud Infrastructure
+  - DevOps & CI/CD
   - Distributed Systems
-  - CI/CD Pipelines
   - System Design
 
-engineering_focus:
-  - Scalable Architectures
-  - Backend Performance
-  - Secure APIs
-  - Clean Code Practices
+tech_stack:
+  - Java
+  - Spring Boot
+  - Angular
+  - TypeScript
+  - MySQL
+  - PostgreSQL
+  - MongoDB
+  - Docker
+  - AWS
 
-mindset:
-  - Continuous Learning
-  - Innovation Driven
-  - Problem Solver
-  - Performance Focused
+philosophy:
+  "Build scalable systems with clean architecture
+   and modern user experiences."
 
-vision: "Building scalable and impactful digital solutions."
+status: "Always learning and building 🚀"
 
----
+<br clear="right"/>---
 
 🚀 Tech Stack
 
