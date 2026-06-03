@@ -2,37 +2,38 @@
 
 ⚡ About Me
 
-<div align="center"><img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/></div>name: Madhav Parmar
-role: Full Stack Developer
+<div align="center"><img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/></div>👨‍💻 name: Madhav Parmar
+🚀 role: Full Stack Developer
 
-specialization:
-  - Java Backend Development
-  - Spring Boot Applications
-  - Angular Frontend Engineering
-  - Microservices Architecture
+⚙️ specialization:
+  ☕ Java Backend Development
+  🍃 Spring Boot Applications
+  🅰️ Angular Frontend Engineering
+  🧩 Microservices Architecture
 
-currently_learning:
-  - Cloud Infrastructure
-  - DevOps & CI/CD
-  - Distributed Systems
-  - System Design
+📚 currently_learning:
+  ☁️ Cloud Infrastructure
+  🔄 DevOps & CI/CD
+  🌐 Distributed Systems
+  🏗️ System Design
 
-tech_stack:
-  - Java
-  - Spring Boot
-  - Angular
-  - TypeScript
-  - MySQL
-  - PostgreSQL
-  - MongoDB
-  - Docker
-  - AWS
+🛠️ tech_stack:
+  ☕ Java
+  🍃 Spring Boot
+  🅰️ Angular
+  📘 TypeScript
+  🟨 JavaScript
+  🐬 MySQL
+  🐘 PostgreSQL
+  🍃 MongoDB
+  🐳 Docker
+  ☁️ AWS
 
-philosophy:
+🎯 philosophy:
   "Build scalable systems with clean architecture
    and modern user experiences."
 
-status: "Always learning and building 🚀"
+🔥 status: "Always learning and building 🚀"
 
 <br clear="right"/>---
 
