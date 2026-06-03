@@ -1,100 +1,83 @@
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=420&color=0:020617,15:081120,35:0F172A,65:111827,100:020617&text=Madhav%20Parmar&fontSize=82&fontColor=00F7FF&animation=fadeIn&fontAlignY=36&desc=⚡%20Full%20Stack%20Developer%20•%20Backend%20Engineer%20•%20System%20Architect&descAlignY=58&descSize=22" /><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=35&duration=2100&pause=700&color=00F7FF&center=true&vCenter=true&width=1250&lines=⚡+Architecting+Scalable+Digital+Systems;🚀+Engineering+High+Performance+Applications;☁️+Cloud+Infrastructure+•+Microservices+•+DevOps;🔥+Clean+Architecture+%7C+Secure+APIs+%7C+Distributed+Systems;💡+Transforming+Complex+Ideas+Into+Elegant+Solutions" /><br/><br/>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=460&color=0:010409,15:020617,35:0B1120,60:111827,100:020617&text=Madhav%20Parmar&fontSize=88&fontColor=00F7FF&animation=fadeIn&fontAlignY=35&desc=⚡%20FULL%20STACK%20DEVELOPER%20•%20SYSTEM%20ARCHITECT%20•%20BACKEND%20ENGINEER&descAlignY=58&descSize=24" /><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=38&duration=1800&pause=700&color=00F7FF&center=true&vCenter=true&width=1350&lines=⚡+Architecting+Scalable+Digital+Infrastructure;🚀+Engineering+High+Performance+Applications;☁️+Cloud+Native+Systems+•+Microservices+•+DevOps;🔥+Clean+Architecture+%7C+Secure+APIs+%7C+Distributed+Systems;💡+Transforming+Complex+Problems+Into+Elegant+Solutions" /><br/><br/>
 
-<img src="https://img.shields.io/badge/Java-020617?style=for-the-badge&logo=openjdk&logoColor=ED8B00"/>
-<img src="https://img.shields.io/badge/SpringBoot-020617?style=for-the-badge&logo=springboot&logoColor=6DB33F"/>
-<img src="https://img.shields.io/badge/Angular-020617?style=for-the-badge&logo=angular&logoColor=DD0031"/>
-<img src="https://img.shields.io/badge/TypeScript-020617?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
-<img src="https://img.shields.io/badge/Docker-020617?style=for-the-badge&logo=docker&logoColor=2496ED"/>
-<img src="https://img.shields.io/badge/AWS-020617?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
-<img src="https://img.shields.io/badge/PostgreSQL-020617?style=for-the-badge&logo=postgresql&logoColor=336791"/>
-<img src="https://img.shields.io/badge/Linux-020617?style=for-the-badge&logo=linux&logoColor=FCC624"/></div><img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"/>⚡ SYSTEM_ARCHITECTURE.ts
+<img src="https://img.shields.io/badge/JAVA-010409?style=for-the-badge&logo=openjdk&logoColor=ED8B00"/>
+<img src="https://img.shields.io/badge/SPRING_BOOT-010409?style=for-the-badge&logo=springboot&logoColor=6DB33F"/>
+<img src="https://img.shields.io/badge/ANGULAR-010409?style=for-the-badge&logo=angular&logoColor=DD0031"/>
+<img src="https://img.shields.io/badge/TYPESCRIPT-010409?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
+<img src="https://img.shields.io/badge/DOCKER-010409?style=for-the-badge&logo=docker&logoColor=2496ED"/>
+<img src="https://img.shields.io/badge/AWS-010409?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
+<img src="https://img.shields.io/badge/KUBERNETES-010409?style=for-the-badge&logo=kubernetes&logoColor=326CE5"/>
+<img src="https://img.shields.io/badge/POSTGRESQL-010409?style=for-the-badge&logo=postgresql&logoColor=336791"/></div><img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"/>⚡ SYSTEM_CORE.java
 
-<div align="center"><img width="390" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/></div>class MadhavParmar {
+<div align="center"><img width="420" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/></div>public class MadhavParmar {
 
-    identity = {
-        role: "Full Stack Developer",
-        specialization: [
-            "Backend Engineering",
-            "Cloud Native Systems",
-            "Scalable Architecture",
-            "Modern Web Applications"
-        ]
+    String role = "Full Stack Developer";
+
+    String[] specialization = {
+        "Backend Engineering",
+        "Cloud Native Applications",
+        "Scalable Architecture",
+        "Distributed Systems"
     };
 
-    backend = {
-        language: "Java",
-        framework: "Spring Boot",
-        architecture: [
+    Backend backend = new Backend(
+        "Java",
+        "Spring Boot",
+        new String[]{
             "Microservices",
             "REST APIs",
-            "Distributed Systems",
-            "Secure Backend Services"
-        ]
-    };
+            "Scalable Services",
+            "Secure API Development"
+        }
+    );
 
-    frontend = {
-        framework: "Angular",
-        ecosystem: [
+    Frontend frontend = new Frontend(
+        "Angular",
+        new String[]{
             "TypeScript",
             "JavaScript",
             "Responsive UI",
             "Modern UX"
-        ]
-    };
+        }
+    );
 
-    databases = [
+    String[] databases = {
         "PostgreSQL",
         "MySQL",
         "MongoDB",
         "Redis"
-    ];
+    };
 
-    cloudAndDevOps = [
-        "Docker",
+    String[] cloudAndDevOps = {
         "AWS",
+        "Docker",
+        "Kubernetes",
         "Linux",
-        "CI/CD Pipelines",
-        "Cloud Infrastructure"
-    ];
+        "CI/CD"
+    };
 
-    currentlyExploring = [
-        "High Availability Systems",
-        "Performance Engineering",
-        "Distributed Computing",
+    String[] currentlyExploring = {
         "System Design",
-        "DevOps Automation"
-    ];
+        "Distributed Computing",
+        "Cloud Infrastructure",
+        "Performance Engineering"
+    };
 
-    engineeringPrinciples = [
-        "Clean Architecture",
-        "Scalable Engineering",
-        "Security Focused Development",
-        "Performance Optimization",
-        "Maintainable Systems"
-    ];
-
-    developerMode() {
-        while(alive) {
-            learn();
-            build();
-            optimize();
-            scale();
-            innovate();
-        }
-    }
+    String motto =
+        "Build systems that scale beyond expectations 🚀";
 }
 
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png"/>⚡ TECH_ECOSYSTEM.exe
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png"/>⚡ TECH_MATRIX.exe
 
-<div align="center"><img src="https://skillicons.dev/icons?i=java,spring,angular,react,ts,js,nodejs,html,css,bootstrap,mysql,postgres,mongodb,redis,docker,kubernetes,git,github,linux,aws,firebase,postman,maven,gradle,kafka,figma&theme=dark" /></div><img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png"/>⚡ DEVELOPMENT_MATRIX.sys
+<div align="center"><img src="https://skillicons.dev/icons?i=java,spring,angular,react,ts,js,nodejs,html,css,bootstrap,mysql,postgres,mongodb,redis,docker,kubernetes,git,github,linux,aws,firebase,postman,maven,gradle,kafka,figma&theme=dark" /></div><img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png"/>⚡ DEVELOPMENT_UNIVERSE.sys
 
-<div align="center"><img height="220em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Madhavparmar11&layout=compact&langs_count=12&theme=algolia"/><img height="220em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Madhavparmar11&theme=tokyonight&utcOffset=5.5"/></div><br/><div align="center"><img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Madhavparmar11&custom_title=⚡%20Contribution%20Universe&bg_color=020617&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&hide_border=true"/></div><img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"/>⚡ DEVELOPER_TERMINAL.sh
+<div align="center"><img height="230em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Madhavparmar11&layout=compact&langs_count=12&theme=algolia"/><img height="230em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Madhavparmar11&theme=tokyonight&utcOffset=5.5"/></div><br/><div align="center"><img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Madhavparmar11&custom_title=⚡%20CONTRIBUTION%20UNIVERSE&bg_color=010409&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&hide_border=true"/></div><img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"/>⚡ DEVELOPER_TERMINAL.sh
 
 > booting developer profile...
 
-[ SYSTEM ONLINE ]
+[ SYSTEM STATUS :: ONLINE ]
 
-Name        :: Madhav Parmar
+Developer   :: Madhav Parmar
 Role        :: Full Stack Developer
 Location    :: Gurugram, India
 
@@ -104,6 +87,7 @@ Primary Stack:
 ├── Angular
 ├── PostgreSQL
 ├── Docker
+├── Kubernetes
 └── AWS
 
 Current Objective:
@@ -112,19 +96,43 @@ Current Objective:
 Engineering Philosophy:
 └── "Elegant architecture scales infinitely."
 
-Developer Status:
+Developer State:
 └── ACTIVE
 
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"/>⚡ CONNECT_WITH_ME.dll
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"/>⚡ SYSTEM_ARCHITECTURE.yml
+
+Client:
+  Frontend:
+    Framework: Angular
+
+Gateway:
+  API: Spring Cloud Gateway
+
+Services:
+  - Authentication Service
+  - User Service
+  - Analytics Service
+  - Notification Service
+
+Infrastructure:
+  Containerization: Docker
+  Orchestration: Kubernetes
+  Cloud: AWS
+
+Database:
+  Primary: PostgreSQL
+  Cache: Redis
+
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png"/>⚡ CONNECT_WITH_ME.dll
 
 <div align="center"><a href="mailto:Madhavparmar897@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-020617?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+  <img src="https://img.shields.io/badge/GMAIL-010409?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
 </a><a href="https://www.linkedin.com/in/madhavparmar-tech">
-  <img src="https://img.shields.io/badge/LinkedIn-020617?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+  <img src="https://img.shields.io/badge/LINKEDIN-010409?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
 </a><a href="https://github.com/Madhavparmar11">
-  <img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=white"/>
-</a></div><img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png"/>⚡ DEVELOPER_PHILOSOPHY.md
+  <img src="https://img.shields.io/badge/GITHUB-010409?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+</a></div><img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png"/>⚡ DEVELOPER_PHILOSOPHY.md
 
 <div align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/></div>---
 
-<div align="center"><h1>⚡ BUILD • SCALE • EVOLVE • INNOVATE ⚡</h1><img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=280&color=0:020617,15:081120,35:0F172A,65:111827,100:020617"/></div>
+<div align="center"><h1>⚡ BUILD • SCALE • EVOLVE • DOMINATE ⚡</h1><img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=300&color=0:010409,15:020617,35:0B1120,60:111827,100:020617"/></div>
