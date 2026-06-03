@@ -41,10 +41,6 @@
 
 <div align="center"><img src="https://skillicons.dev/icons?i=java,spring,angular,ts,js,html,css,bootstrap,mysql,postgres,mongodb,docker,git,github,linux,aws,firebase,postman,maven,gradle&theme=dark" /></div>---
 
-📊 GitHub Analytics
-
-<div align="center"><img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Madhavparmar11&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/><img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Madhavparmar11&theme=algolia"/></div>---
-
 🧠 Most Used Languages
 
 <div align="center"><img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Madhavparmar11&layout=compact&langs_count=8&theme=algolia"/></div>---
