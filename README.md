@@ -2,33 +2,43 @@
 
 ⚡ About Me
 
-<div align="center"><table>
-<tr>
-<td width="55%">👨‍💻 Madhav Parmar
+<div align="center"><img width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/></div>const madhavParmar = {
+    role: "Full Stack Developer",
 
-🚀 Full Stack Developer passionate about building scalable backend systems and modern web applications.
+    specialization: [
+        "Java Backend Development",
+        "Spring Boot Applications",
+        "Angular Frontend Engineering",
+        "Microservices Architecture"
+    ],
 
-⚙️ Currently Working With
+    currentlyExploring: [
+        "Cloud Infrastructure",
+        "DevOps & CI/CD",
+        "Distributed Systems",
+        "System Design"
+    ],
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=java,spring,angular,ts,js,docker,mysql,postgres,mongodb,aws&theme=dark" />
-</p>🌱 Currently Exploring
+    techStack: {
+        backend: ["Java", "Spring Boot"],
+        frontend: ["Angular", "TypeScript", "JavaScript"],
+        database: ["MySQL", "PostgreSQL", "MongoDB"],
+        devops: ["Docker", "AWS"],
+        tools: ["GitHub", "Linux", "Postman"]
+    },
 
-- ☁️ Cloud Infrastructure
-- 🔄 DevOps & CI/CD
-- 🌐 Distributed Systems
-- 🏗️ System Design
+    engineeringFocus: [
+        "Scalable Architectures",
+        "Secure REST APIs",
+        "Backend Optimization",
+        "Clean Code Practices"
+    ],
 
-🎯 Engineering Focus
+    motto:
+        "Build scalable systems with modern architecture 🚀"
+};
 
-- ⚡ Scalable Architectures
-- 🔐 Secure REST APIs
-- 🚀 Backend Optimization
-- 🧩 Clean Code Practices
-
-</td><td width="45%"><img align="center" alt="Coding" width="100%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/></td>
-</tr>
-</table></div>---
+---
 
 🚀 Tech Stack
 
